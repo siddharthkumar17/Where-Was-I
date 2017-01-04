@@ -1,0 +1,22 @@
+{
+  "name": "where-was-i",
+  "version": "1.0.0",
+  "description": "A web app to quickly find where you were in a TV show.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddharthkumar17/Where-Was-I.git"
+  },
+  "author": "Sid Kumar and Daniel Zheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddharthkumar17/Where-Was-I/issues"
+  },
+  "homepage": "https://github.com/siddharthkumar17/Where-Was-I#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
