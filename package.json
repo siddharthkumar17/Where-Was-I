@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/siddharthkumar17/Where-Was-I#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "vue": "^2.1.8"
   }
 }
